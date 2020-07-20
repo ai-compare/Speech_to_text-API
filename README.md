@@ -1,4 +1,4 @@
-# Speech_to_text-API
+# Speech to text - AI-Compare API
 ## Description
 This repositery provides code to implement [AI-Compare Speech-to-text API](https://www.ai-compare.com/audio_apis/speech_recognition). [AI-Compare Speech-to-text API](https://www.ai-compare.com/audio_apis/speech_recognition) allows to call Speech-to-text APIs from Google Cloud Platform Speech API, AWS Transcribe, Microsoft Azure Cognitives Services Speech, and IBM Watson Speech to Text. It permits to get results from these providers and compare the results.
 
