@@ -40,5 +40,5 @@ If you have any question or request, you can contact us at contact@datagenius.fr
 ## Terms of use
 You can access to our terms [here](https://www.ai-compare.com/terms/) on our website.
 
-
+#
 ![Screenshot](Ai-compare_new.png)
