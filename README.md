@@ -28,6 +28,14 @@ response = requests.request("POST", url, headers=headers, data = payload, files 
 print(response.text.encode('utf8'))
 ```
 
+## Response example
+```json
+{
+  "result": [
+    {"solution_name": "Google cloud","execution_time": "14.179207","result": {"audio_path": "media/data/files/speech_recognition_XcpGMph.wav","transcribe": "allô oui bonjour Martin à Paris","confidence": 0.8405160903930664},"api_response": {"results": [{"alternatives": [{"transcript": "allô oui bonjour à Martin à Paris","confidence": 0.8906704187393188}],"languageCode": "fr-fr"}]},"matching_text": 0.7222222222222222}]
+    }
+```
+
 ## FAQ
 Here you can access to AI-Compare [FAQ](https://www.ai-compare.com/faq/).
 
