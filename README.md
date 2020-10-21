@@ -5,9 +5,9 @@ This repositery provides code to implement [AI-Compare Speech-to-text API](https
 ## What is AI-Compare ?
 [AI-Compare](https://www.ai-compare.com/) is a SaaS providing APIs connected to big (AWS, GCP, etc.) and small AI providers: [object detection](https://www.ai-compare.com/vision_apis/object_detection), [OCR](https://www.ai-compare.com/vision_apis/ocr), [NLP](https://www.ai-compare.com/text_apis/sentiment_analysis/), [speech-to-text](https://www.ai-compare.com/audio_apis/speech_recognition), custom vision, etc. Our solution allows users to compare the performance of these providers APIs according to their data and use them directly via our API thus offering great flexibility and making it very easy to change supplier. In particular, we offer better performance with the "Genius" feature that cleverly combines results from multiple providers.
 
-AI-Compare offers 5000 free credits when you [create your account for free](https://www.ai-compare.com/accounts/login/?next=/my_apis). You can then use [APIs](https://www.ai-compare.com/v1/redoc/), use the [interface](https://www.ai-compare.com/my_apis), manage your account and have access to all the APIs.
+AI-Compare offers 2$ free credits when you [create your account for free](https://www.ai-compare.com/accounts/login/?next=/my_apis). You can then use [APIs](https://www.ai-compare.com/v1/redoc/), use the [interface](https://www.ai-compare.com/my_apis), manage your account and have access to all the APIs.
 
-You can find APIs documentation here : https://www.ai-compare.com/v1/redoc/#operation/Speech%20Recognition
+You can find APIs documentation here : https://www.ai-compare.com/v1/redoc/
 
 ## Usage
 ### Initialization
@@ -43,7 +43,7 @@ Here you can access to AI-Compare [FAQ](https://www.ai-compare.com/faq/).
 We provides on our website some [use cases examples for audio APIs](https://www.ai-compare.com/use_cases_audio/)
 
 ## Contact
-If you have any question or request, you can contact us at contact@datagenius.fr
+If you have any question or request, you can contact us at contact@ai-compare.com
 
 ## Terms of use
 You can access to our terms [here](https://www.ai-compare.com/terms/) on our website.
