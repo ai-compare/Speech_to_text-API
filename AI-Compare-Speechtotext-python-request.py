@@ -1,12 +1,12 @@
 import requests
 
-# You can find the documentation here : https://documenter.getpostman.com/view/10011301/SzmiVFqh?version=latest#a753e757-f7b7-4e64-9d11-571f96e6ab87
+# You can find the documentation here : https://www.ai-compare.com/v1/redoc/#operation/Speech%20Recognition
 
 #Enter your API Token
-headers = {'x-access-token': 'Enter your API Key'} #You can get your free API token here https://www.ai-compare.com/accounts/login/?next=/my_apis
+headers = {'Authorization': 'Bearer your API Key'} #You can get your free API token here https://www.ai-compare.com/accounts/login/?next=/my_apis
 
 # Select API
-url = 'https://www.ai-compare.com/api/v1/audio/create/compare/speech_recognition'
+url = 'https://www.ai-compare.com/v1/pretrained/audio/speech_recognition'
 
 # Select providers, and audio to transcribe
 payload = {'providers':'[\'ibm\', \'cognitives_service\', \'aws\', \'google_cloud\']','text_to_find':'Bonjour, je suis Martin','language':'fr-FR'}
