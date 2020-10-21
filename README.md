@@ -20,7 +20,8 @@ url = 'https://www.ai-compare.com/v1/pretrained/audio/speech_recognition'
 ### Select parameters 
 Set audio file to transcribe, the language, the attempted result, and providers APIs you want to run :
 ```python
-payload = {'providers':'[\'ibm\', \'cognitives_service\', \'aws\', \'google_cloud\']','text_to_find':'Bonjour, je suis Martin','language':'fr-FR'}
+payload = {'providers':'[\'ibm\', \'cognitives_service\', \'aws\', \'google_cloud\']','text_to_find':'Bonjour, je suis Martin','language':'en-US'}
+files = [  ('files', open('Music/example.mp3','rb'))]
 ```
 ### Get results
 ```python
