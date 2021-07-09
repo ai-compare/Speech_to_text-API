@@ -1,9 +1,9 @@
 import requests
 
-# You can find the documentation here : https://www.ai-compare.com/v1/redoc/#operation/Speech%20Recognition
+# You can find the documentation here : https://api.edenai.run/v1/redoc/#section/How-it-works
 
 #Enter your API Token
-headers = {'Authorization': 'Bearer your API Key'} #You can get your free API token here https://www.ai-compare.com/accounts/login/?next=/my_apis
+headers = {'Authorization': 'Bearer your API Key'}
 
 # Select API
 url = 'https://api.edenai.run/v1/pretrained/audio/speech_recognition'
