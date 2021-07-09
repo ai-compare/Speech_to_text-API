@@ -47,4 +47,4 @@ If you have any question or request, you can contact us at contact@edenai.com
 You can access to our terms [here](https://www.edenai.co/terms) on our website.
 
 #
-![Screenshot](Ai-compare_new.png)
+![Screenshot](Logo complet Eden AI - format PNG.png)
